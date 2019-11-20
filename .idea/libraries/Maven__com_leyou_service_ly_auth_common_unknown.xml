@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.leyou.service:ly-auth-common:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/leyou/service/ly-auth-common/unknown/ly-auth-common-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/leyou/service/ly-auth-common/unknown/ly-auth-common-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/leyou/service/ly-auth-common/unknown/ly-auth-common-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

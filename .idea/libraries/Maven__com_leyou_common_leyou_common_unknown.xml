@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.leyou.common:leyou-common:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/leyou/common/leyou-common/unknown/leyou-common-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/leyou/common/leyou-common/unknown/leyou-common-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/leyou/common/leyou-common/unknown/leyou-common-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

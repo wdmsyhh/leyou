@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.leyou.user:leyou-user-interface:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/leyou/user/leyou-user-interface/unknown/leyou-user-interface-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/leyou/user/leyou-user-interface/unknown/leyou-user-interface-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/leyou/user/leyou-user-interface/unknown/leyou-user-interface-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
